@@ -6,7 +6,7 @@ grid = [
     [" "," "," "],
     [" "," "," "],
     [" "," "," "]
-]      # empty grid
+]      # empty grid for storing the inputs
 print("Game starting.....")
 print("Remember player-O computer-X")
 print("carefully select the position")
